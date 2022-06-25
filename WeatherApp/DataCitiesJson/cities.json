@@ -1,0 +1,2384 @@
+[
+    {
+      "country": "UZ",
+      "name": "Nukus",
+      "lat": "42.45306",
+      "lng": "59.61028"
+    },
+    {
+      "country": "UZ",
+      "name": "Mŭynoq",
+      "lat": "43.76833",
+      "lng": "59.02139"
+    },
+    {
+      "country": "UZ",
+      "name": "Qanliko‘l",
+      "lat": "42.8395",
+      "lng": "59.00093"
+    },
+    {
+      "country": "UZ",
+      "name": "Khŭjayli",
+      "lat": "42.40043",
+      "lng": "59.46005"
+    },
+    {
+      "country": "UZ",
+      "name": "Kegeyli Shahar",
+      "lat": "42.77667",
+      "lng": "59.60778"
+    },
+    {
+      "country": "UZ",
+      "name": "Qozonketkan",
+      "lat": "43.01907",
+      "lng": "59.36425"
+    },
+    {
+      "country": "UZ",
+      "name": "Oltinko‘l",
+      "lat": "43.06874",
+      "lng": "58.90372"
+    },
+    {
+      "country": "UZ",
+      "name": "Oqmang‘it",
+      "lat": "42.59889",
+      "lng": "59.53444"
+    },
+    {
+      "country": "UZ",
+      "name": "Qo‘ng‘irot Shahri",
+      "lat": "43.05207",
+      "lng": "58.84596"
+    },
+    {
+      "country": "UZ",
+      "name": "Xo‘jayli Shahri",
+      "lat": "42.40881",
+      "lng": "59.44544"
+    },
+    {
+      "country": "UZ",
+      "name": "Chimboy Shahri",
+      "lat": "42.92952",
+      "lng": "59.78199"
+    },
+    {
+      "country": "UZ",
+      "name": "Mo‘ynoq Shahri",
+      "lat": "43.77877",
+      "lng": "59.03039"
+    },
+    {
+      "country": "UZ",
+      "name": "Shumanay Shahri",
+      "lat": "42.63433",
+      "lng": "58.9306"
+    },
+    {
+      "country": "UZ",
+      "name": "Zomin",
+      "lat": "39.96056",
+      "lng": "68.39583"
+    },
+    {
+      "country": "UZ",
+      "name": "Nishon Tumani",
+      "lat": "38.69395",
+      "lng": "65.67512"
+    },
+    {
+      "country": "UZ",
+      "name": "Urgut",
+      "lat": "39.40222",
+      "lng": "67.24306"
+    },
+    {
+      "country": "UZ",
+      "name": "Mug‘lon Shahar",
+      "lat": "38.91878",
+      "lng": "65.41217"
+    },
+    {
+      "country": "UZ",
+      "name": "Tirmiz",
+      "lat": "37.22417",
+      "lng": "67.27833"
+    },
+    {
+      "country": "UZ",
+      "name": "Sho‘rchi",
+      "lat": "37.99944",
+      "lng": "67.7875"
+    },
+    {
+      "country": "UZ",
+      "name": "Shahrisabz",
+      "lat": "39.05778",
+      "lng": "66.83417"
+    },
+    {
+      "country": "UZ",
+      "name": "Shohimardon",
+      "lat": "39.98322",
+      "lng": "71.80512"
+    },
+    {
+      "country": "UZ",
+      "name": "Samarqand",
+      "lat": "39.65417",
+      "lng": "66.95972"
+    },
+    {
+      "country": "UZ",
+      "name": "Romiton",
+      "lat": "39.92944",
+      "lng": "64.37944"
+    },
+    {
+      "country": "UZ",
+      "name": "Qarshi",
+      "lat": "38.86056",
+      "lng": "65.78905"
+    },
+    {
+      "country": "UZ",
+      "name": "Muborak",
+      "lat": "39.25528",
+      "lng": "65.15278"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangi Mirishkor",
+      "lat": "38.85143",
+      "lng": "65.27789"
+    },
+    {
+      "country": "UZ",
+      "name": "Kitob",
+      "lat": "39.08425",
+      "lng": "66.83318"
+    },
+    {
+      "country": "UZ",
+      "name": "Kattaqo‘rg‘on",
+      "lat": "39.89889",
+      "lng": "66.25611"
+    },
+    {
+      "country": "UZ",
+      "name": "Koson",
+      "lat": "39.0375",
+      "lng": "65.585"
+    },
+    {
+      "country": "UZ",
+      "name": "Qorovulbozor",
+      "lat": "39.50056",
+      "lng": "64.79361"
+    },
+    {
+      "country": "UZ",
+      "name": "Karakul’",
+      "lat": "39.53333",
+      "lng": "63.83333"
+    },
+    {
+      "country": "UZ",
+      "name": "Qorako’l",
+      "lat": "39.49944",
+      "lng": "63.85389"
+    },
+    {
+      "country": "UZ",
+      "name": "Kogon",
+      "lat": "39.72278",
+      "lng": "64.55167"
+    },
+    {
+      "country": "UZ",
+      "name": "Ishtixon",
+      "lat": "39.96639",
+      "lng": "66.48611"
+    },
+    {
+      "country": "UZ",
+      "name": "G‘uzor",
+      "lat": "38.62083",
+      "lng": "66.24806"
+    },
+    {
+      "country": "UZ",
+      "name": "Galaosiyo",
+      "lat": "39.85778",
+      "lng": "64.44833"
+    },
+    {
+      "country": "UZ",
+      "name": "Juma",
+      "lat": "39.71611",
+      "lng": "66.66417"
+    },
+    {
+      "country": "UZ",
+      "name": "Jomboy",
+      "lat": "39.69889",
+      "lng": "67.09333"
+    },
+    {
+      "country": "UZ",
+      "name": "Denov",
+      "lat": "38.26746",
+      "lng": "67.89886"
+    },
+    {
+      "country": "UZ",
+      "name": "Daxbet",
+      "lat": "39.76389",
+      "lng": "66.9125"
+    },
+    {
+      "country": "UZ",
+      "name": "Chiroqchi",
+      "lat": "39.03361",
+      "lng": "66.57222"
+    },
+    {
+      "country": "UZ",
+      "name": "Chelak",
+      "lat": "39.92028",
+      "lng": "66.86111"
+    },
+    {
+      "country": "UZ",
+      "name": "Charxin",
+      "lat": "39.69667",
+      "lng": "66.76861"
+    },
+    {
+      "country": "UZ",
+      "name": "Bulung’ur",
+      "lat": "39.76472",
+      "lng": "67.27139"
+    },
+    {
+      "country": "UZ",
+      "name": "Bukhara",
+      "lat": "39.77472",
+      "lng": "64.42861"
+    },
+    {
+      "country": "UZ",
+      "name": "Beshkent",
+      "lat": "38.82139",
+      "lng": "65.65306"
+    },
+    {
+      "country": "UZ",
+      "name": "Boysun",
+      "lat": "38.20835",
+      "lng": "67.20664"
+    },
+    {
+      "country": "UZ",
+      "name": "Olot",
+      "lat": "39.415",
+      "lng": "63.80333"
+    },
+    {
+      "country": "UZ",
+      "name": "Oqtosh",
+      "lat": "39.92139",
+      "lng": "65.92528"
+    },
+    {
+      "country": "UZ",
+      "name": "Qorovulbozor Shahri",
+      "lat": "39.50308",
+      "lng": "64.81142"
+    },
+    {
+      "country": "UZ",
+      "name": "Qorashina",
+      "lat": "38.34185",
+      "lng": "66.56342"
+    },
+    {
+      "country": "UZ",
+      "name": "Shahrisabz Shahri",
+      "lat": "39.05206",
+      "lng": "66.82083"
+    },
+    {
+      "country": "UZ",
+      "name": "Koson Shahri",
+      "lat": "39.04472",
+      "lng": "65.59082"
+    },
+    {
+      "country": "UZ",
+      "name": "Kitob Shahri",
+      "lat": "39.12251",
+      "lng": "66.8757"
+    },
+    {
+      "country": "UZ",
+      "name": "Muborak Shahri",
+      "lat": "39.25778",
+      "lng": "65.15674"
+    },
+    {
+      "country": "UZ",
+      "name": "Beshkent Shahri",
+      "lat": "38.81107",
+      "lng": "65.64246"
+    },
+    {
+      "country": "UZ",
+      "name": "G‘uzor Shahri",
+      "lat": "38.62596",
+      "lng": "66.24515"
+    },
+    {
+      "country": "UZ",
+      "name": "Qamashi Shahri",
+      "lat": "38.81998",
+      "lng": "66.46441"
+    },
+    {
+      "country": "UZ",
+      "name": "Chiroqchi Shahri",
+      "lat": "39.02727",
+      "lng": "66.58083"
+    },
+    {
+      "country": "UZ",
+      "name": "Yakkabog‘ Shahri",
+      "lat": "38.97664",
+      "lng": "66.68867"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangi-Nishon Shahri",
+      "lat": "38.64501",
+      "lng": "65.68952"
+    },
+    {
+      "country": "UZ",
+      "name": "Ravon",
+      "lat": "39.97724",
+      "lng": "71.13467"
+    },
+    {
+      "country": "UZ",
+      "name": "Zafar",
+      "lat": "40.98333",
+      "lng": "68.9"
+    },
+    {
+      "country": "UZ",
+      "name": "Yozyovon",
+      "lat": "40.66139",
+      "lng": "71.74361"
+    },
+    {
+      "country": "UZ",
+      "name": "Yaypan",
+      "lat": "40.37583",
+      "lng": "70.81556"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangiyŭl",
+      "lat": "41.11202",
+      "lng": "69.0471"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangiyer",
+      "lat": "40.275",
+      "lng": "68.8225"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangirabot",
+      "lat": "40.02539",
+      "lng": "65.96095"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangiqo‘rg‘on",
+      "lat": "41.19474",
+      "lng": "71.72385"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangiqo‘rg‘on",
+      "lat": "40.55389",
+      "lng": "71.14667"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangiobod",
+      "lat": "41.11919",
+      "lng": "70.09406"
+    },
+    {
+      "country": "UZ",
+      "name": "Vodil",
+      "lat": "40.17424",
+      "lng": "71.73013"
+    },
+    {
+      "country": "UZ",
+      "name": "Wobkent",
+      "lat": "40.03028",
+      "lng": "64.515"
+    },
+    {
+      "country": "UZ",
+      "name": "Uychi",
+      "lat": "41.08073",
+      "lng": "71.92331"
+    },
+    {
+      "country": "UZ",
+      "name": "Ŭrtaowul",
+      "lat": "41.18667",
+      "lng": "69.14528"
+    },
+    {
+      "country": "UZ",
+      "name": "Urganch",
+      "lat": "41.55",
+      "lng": "60.63333"
+    },
+    {
+      "country": "UZ",
+      "name": "Dashtobod",
+      "lat": "40.12694",
+      "lng": "68.49444"
+    },
+    {
+      "country": "UZ",
+      "name": "Uchqŭrghon Shahri",
+      "lat": "41.11371",
+      "lng": "72.07915"
+    },
+    {
+      "country": "UZ",
+      "name": "Uchko‘prik",
+      "lat": "40.54222",
+      "lng": "71.06083"
+    },
+    {
+      "country": "UZ",
+      "name": "Tŭytepa",
+      "lat": "41.0321",
+      "lng": "69.36253"
+    },
+    {
+      "country": "UZ",
+      "name": "To‘rqao‘rg‘on",
+      "lat": "40.99984",
+      "lng": "71.51162"
+    },
+    {
+      "country": "UZ",
+      "name": "Toshloq",
+      "lat": "40.47722",
+      "lng": "71.76778"
+    },
+    {
+      "country": "UZ",
+      "name": "Toshbuloq",
+      "lat": "40.91617",
+      "lng": "71.57819"
+    },
+    {
+      "country": "UZ",
+      "name": "Tomdibuloq",
+      "lat": "41.7508",
+      "lng": "64.61711"
+    },
+    {
+      "country": "UZ",
+      "name": "Taxtako‘pir",
+      "lat": "43.01171",
+      "lng": "60.30111"
+    },
+    {
+      "country": "UZ",
+      "name": "Sirdaryo",
+      "lat": "40.84361",
+      "lng": "68.66167"
+    },
+    {
+      "country": "UZ",
+      "name": "Showot",
+      "lat": "41.65583",
+      "lng": "60.3025"
+    },
+    {
+      "country": "UZ",
+      "name": "Shahrixon",
+      "lat": "40.71331",
+      "lng": "72.05706"
+    },
+    {
+      "country": "UZ",
+      "name": "Shofirkon",
+      "lat": "40.12",
+      "lng": "64.50139"
+    },
+    {
+      "country": "UZ",
+      "name": "Salor",
+      "lat": "41.37222",
+      "lng": "69.38167"
+    },
+    {
+      "country": "UZ",
+      "name": "Rishton",
+      "lat": "40.35667",
+      "lng": "71.28472"
+    },
+    {
+      "country": "UZ",
+      "name": "Qŭshkŭpir",
+      "lat": "41.535",
+      "lng": "60.34556"
+    },
+    {
+      "country": "UZ",
+      "name": "Qo‘qon",
+      "lat": "40.52861",
+      "lng": "70.9425"
+    },
+    {
+      "country": "UZ",
+      "name": "Piskent",
+      "lat": "40.89722",
+      "lng": "69.35056"
+    },
+    {
+      "country": "UZ",
+      "name": "Poytug‘",
+      "lat": "40.8977",
+      "lng": "72.2449"
+    },
+    {
+      "country": "UZ",
+      "name": "Payshanba",
+      "lat": "40.00778",
+      "lng": "66.23694"
+    },
+    {
+      "country": "UZ",
+      "name": "Parkent",
+      "lat": "41.29444",
+      "lng": "69.67639"
+    },
+    {
+      "country": "UZ",
+      "name": "Pop",
+      "lat": "40.87361",
+      "lng": "71.10889"
+    },
+    {
+      "country": "UZ",
+      "name": "Paxtakor",
+      "lat": "40.31528",
+      "lng": "67.95444"
+    },
+    {
+      "country": "UZ",
+      "name": "Paxtaobod",
+      "lat": "40.92936",
+      "lng": "72.49687"
+    },
+    {
+      "country": "UZ",
+      "name": "Olmaliq",
+      "lat": "40.84472",
+      "lng": "69.59833"
+    },
+    {
+      "country": "UZ",
+      "name": "Ohangaron",
+      "lat": "40.90639",
+      "lng": "69.63833"
+    },
+    {
+      "country": "UZ",
+      "name": "Nurota",
+      "lat": "40.56139",
+      "lng": "65.68861"
+    },
+    {
+      "country": "UZ",
+      "name": "Novyy Turtkul’",
+      "lat": "41.55",
+      "lng": "61.01667"
+    },
+    {
+      "country": "UZ",
+      "name": "Navoiy",
+      "lat": "40.08444",
+      "lng": "65.37917"
+    },
+    {
+      "country": "UZ",
+      "name": "Navbahor",
+      "lat": "40.48104",
+      "lng": "70.77093"
+    },
+    {
+      "country": "UZ",
+      "name": "Namangan",
+      "lat": "40.9983",
+      "lng": "71.67257"
+    },
+    {
+      "country": "UZ",
+      "name": "Marhamat",
+      "lat": "40.50236",
+      "lng": "72.32646"
+    },
+    {
+      "country": "UZ",
+      "name": "Marhamat",
+      "lat": "40.48048",
+      "lng": "72.31388"
+    },
+    {
+      "country": "UZ",
+      "name": "Marg‘ilon",
+      "lat": "40.47237",
+      "lng": "71.72463"
+    },
+    {
+      "country": "UZ",
+      "name": "Manghit",
+      "lat": "42.11556",
+      "lng": "60.05972"
+    },
+    {
+      "country": "UZ",
+      "name": "Asaka",
+      "lat": "40.64153",
+      "lng": "72.23868"
+    },
+    {
+      "country": "UZ",
+      "name": "Qiziltepa",
+      "lat": "40.03306",
+      "lng": "64.85"
+    },
+    {
+      "country": "UZ",
+      "name": "Kuyganyor",
+      "lat": "40.85444",
+      "lng": "72.30734"
+    },
+    {
+      "country": "UZ",
+      "name": "Quvasoy",
+      "lat": "40.29721",
+      "lng": "71.98026"
+    },
+    {
+      "country": "UZ",
+      "name": "Qo‘rg‘ontepa",
+      "lat": "40.73192",
+      "lng": "72.76177"
+    },
+    {
+      "country": "UZ",
+      "name": "Yangi Marg‘ilon",
+      "lat": "40.42722",
+      "lng": "71.71889"
+    },
+    {
+      "country": "UZ",
+      "name": "Kirguli",
+      "lat": "40.43553",
+      "lng": "71.76721"
+    },
+    {
+      "country": "UZ",
+      "name": "Qibray",
+      "lat": "41.38972",
+      "lng": "69.465"
+    },
+    {
+      "country": "UZ",
+      "name": "Xo‘jaobod",
+      "lat": "40.66886",
+      "lng": "72.56002"
+    },
+    {
+      "country": "UZ",
+      "name": "Khiwa",
+      "lat": "41.37833",
+      "lng": "60.36389"
+    },
+    {
+      "country": "UZ",
+      "name": "Hamza",
+      "lat": "40.42762",
+      "lng": "71.50534"
+    },
+    {
+      "country": "UZ",
+      "name": "Haqqulobod",
+      "lat": "40.91667",
+      "lng": "72.11667"
+    },
+    {
+      "country": "UZ",
+      "name": "Kosonsoy",
+      "lat": "41.24944",
+      "lng": "71.54738"
+    },
+    {
+      "country": "UZ",
+      "name": "Qorao‘zak",
+      "lat": "43.02207",
+      "lng": "60.01701"
+    },
+    {
+      "country": "UZ",
+      "name": "Konimex",
+      "lat": "40.27593",
+      "lng": "65.14511"
+    },
+    {
+      "country": "UZ",
+      "name": "Jizzax",
+      "lat": "40.11583",
+      "lng": "67.84222"
+    },
+    {
+      "country": "UZ",
+      "name": "Iskandar",
+      "lat": "41.55389",
+      "lng": "69.70083"
+    },
+    {
+      "country": "UZ",
+      "name": "Hazorasp",
+      "lat": "41.31944",
+      "lng": "61.07417"
+    },
+    {
+      "country": "UZ",
+      "name": "Gurlan",
+      "lat": "41.84472",
+      "lng": "60.39194"
+    },
+    {
+      "country": "UZ",
+      "name": "Guliston",
+      "lat": "40.48972",
+      "lng": "68.78417"
+    },
+    {
+      "country": "UZ",
+      "name": "Ghijduwon",
+      "lat": "40.1",
+      "lng": "64.68333"
+    },
+    {
+      "country": "UZ",
+      "name": "Gazli",
+      "lat": "40.13333",
+      "lng": "63.45"
+    },
+    {
+      "country": "UZ",
+      "name": "G‘azalkent",
+      "lat": "41.55806",
+      "lng": "69.77083"
+    },
+    {
+      "country": "UZ",
+      "name": "Gagarin",
+      "lat": "40.66194",
+      "lng": "68.17222"
+    },
+    {
+      "country": "UZ",
+      "name": "Fergana",
+      "lat": "40.38421",
+      "lng": "71.78432"
+    },
+    {
+      "country": "UZ",
+      "name": "Amir Timur",
+      "lat": "41.01944",
+      "lng": "68.94083"
+    },
+    {
+      "country": "UZ",
+      "name": "Dŭstlik",
+      "lat": "40.52472",
+      "lng": "68.03583"
+    },
+    {
+      "country": "UZ",
+      "name": "Dang‘ara",
+      "lat": "40.58389",
+      "lng": "70.91444"
+    },
+    {
+      "country": "UZ",
+      "name": "Chust",
+      "lat": "41.00329",
+      "lng": "71.23791"
+    },
+    {
+      "country": "UZ",
+      "name": "Chirchiq",
+      "lat": "41.46889",
+      "lng": "69.58222"
+    },
+    {
+      "country": "UZ",
+      "name": "Chinoz",
+      "lat": "40.93633",
+      "lng": "68.76128"
+    },
+    {
+      "country": "UZ",
+      "name": "Kyzyldzhar",
+      "lat": "41.56667",
+      "lng": "70.01667"
+    },
+    {
+      "country": "UZ",
+      "name": "Chortoq",
+      "lat": "41.06924",
+      "lng": "71.82372"
+    },
+    {
+      "country": "UZ",
+      "name": "Buloqboshi",
+      "lat": "40.62907",
+      "lng": "72.50212"
+    },
+    {
+      "country": "UZ",
+      "name": "Bo‘ka",
+      "lat": "40.81108",
+      "lng": "69.19417"
+    },
+    {
+      "country": "UZ",
+      "name": "Beshrabot",
+      "lat": "40.19761",
+      "lng": "65.33527"
+    },
+    {
+      "country": "UZ",
+      "name": "Beshariq",
+      "lat": "40.43583",
+      "lng": "70.61028"
+    },
+    {
+      "country": "UZ",
+      "name": "Beruniy",
+      "lat": "41.69111",
+      "lng": "60.7525"
+    },
+    {
+      "country": "UZ",
+      "name": "Bektemir",
+      "lat": "41.20972",
+      "lng": "69.33417"
+    },
+    {
+      "country": "UZ",
+      "name": "Bekobod",
+      "lat": "40.22083",
+      "lng": "69.26972"
+    },
+    {
+      "country": "UZ",
+      "name": "Baliqchi",
+      "lat": "40.90499",
+      "lng": "71.84737"
+    },
+    {
+      "country": "UZ",
+      "name": "Bag‘dod",
+      "lat": "40.46306",
+      "lng": "71.21222"
+    },
+    {
+      "country": "UZ",
+      "name": "Angren",
+      "lat": "41.01667",
+      "lng": "70.14361"
+    },
+    {
+      "country": "UZ",
+      "name": "Andijon",
+      "lat": "40.78206",
+      "lng": "72.34424"
+    },
+    {
+      "country": "UZ",
+      "name": "Oltinko‘l",
+      "lat": "40.80104",
+      "lng": "72.17306"
+    },
+    {
+      "country": "UZ",
+      "name": "Oltiariq",
+      "lat": "40.39194",
+      "lng": "71.47417"
+    },
+    {
+      "country": "UZ",
+      "name": "Oxunboboyev",
+      "lat": "40.71984",
+      "lng": "72.64282"
+    },
+    {
+      "country": "UZ",
+      "name": "Oqoltin",
+      "lat": "40.74649",
+      "lng": "71.70031"
+    },
+    {
+      "country": "UZ",
+      "name": "Quva",
+      "lat": "40.52204",
+      "lng": "72.07292"
+    },
+    {
+      "country": "UZ",
+      "name": "Beruniy Shahri",
+      "lat": "41.69904",
+      "lng": "60.75501"
+    },
+    {
+      "country": "UZ",
+      "name": "To‘rtko‘l Shahri",
+      "lat": "41.56055",
+      "lng": "61.0018"
+    },
+    {
+      "country": "UZ",
+      "name": "Bo‘ston Shahri",
+      "lat": "41.84607",
+      "lng": "60.94744"
+    },
+    {
+      "country": "UZ",
+      "name": "Mang‘it Shahri",
+      "lat": "42.12215",
+      "lng": "60.06276"
+    },
+    {
+      "country": "UZ",
+      "name": "Uchquduq Shahri",
+      "lat": "42.15001",
+      "lng": "63.55221"
+    },
+    {
+      "country": "UZ",
+      "name": "Karmana Shahri",
+      "lat": "40.13782",
+      "lng": "65.37545"
+    },
+    {
+      "country": "UZ",
+      "name": "Qiziltepa Shahri",
+      "lat": "40.0254",
+      "lng": "64.82885"
+    },
+    {
+      "country": "UZ",
+      "name": "Nurota Shahri",
+      "lat": "40.56762",
+      "lng": "65.67947"
+    },
+    {
+      "country": "UZ",
+      "name": "Kosonsoy Shahri",
+      "lat": "41.26327",
+      "lng": "71.54239"
+    },
+    {
+      "country": "UZ",
+      "name": "Chortoq Shahri",
+      "lat": "41.07703",
+      "lng": "71.81772"
+    },
+    {
+      "country": "UZ",
+      "name": "Pop Shahri",
+      "lat": "40.87642",
+      "lng": "71.1022"
+    },
+    {
+      "country": "UZ",
+      "name": "Tŭragŭrghon Shahri",
+      "lat": "41.00334",
+      "lng": "71.51056"
+    },
+    {
+      "country": "UZ",
+      "name": "Langar",
+      "lat": "40.5205",
+      "lng": "71.66015"
+    },
+    {
+      "country": "US",
+      "name": "Liberty",
+      "lat": "37.31841",
+      "lng": "-84.9394"
+    },
+    {
+      "country": "US",
+      "name": "Livermore",
+      "lat": "37.4931",
+      "lng": "-87.13194"
+    },
+    {
+      "country": "US",
+      "name": "London",
+      "lat": "37.12898",
+      "lng": "-84.08326"
+    },
+    {
+      "country": "US",
+      "name": "Louisa",
+      "lat": "38.11425",
+      "lng": "-82.60321"
+    },
+    {
+      "country": "US",
+      "name": "Louisville",
+      "lat": "38.25424",
+      "lng": "-85.75941"
+    },
+    {
+      "country": "US",
+      "name": "Ludlow",
+      "lat": "39.09256",
+      "lng": "-84.54744"
+    },
+    {
+      "country": "US",
+      "name": "Lyndon",
+      "lat": "38.25674",
+      "lng": "-85.60163"
+    },
+    {
+      "country": "US",
+      "name": "Madisonville",
+      "lat": "37.3281",
+      "lng": "-87.49889"
+    },
+    {
+      "country": "US",
+      "name": "Manchester",
+      "lat": "37.1537",
+      "lng": "-83.76186"
+    },
+    {
+      "country": "US",
+      "name": "Marion",
+      "lat": "37.33283",
+      "lng": "-88.08113"
+    },
+    {
+      "country": "US",
+      "name": "Masonville",
+      "lat": "37.67505",
+      "lng": "-87.03472"
+    },
+    {
+      "country": "US",
+      "name": "Massac",
+      "lat": "37.01672",
+      "lng": "-88.73061"
+    },
+    {
+      "country": "US",
+      "name": "Mayfield",
+      "lat": "36.74172",
+      "lng": "-88.63672"
+    },
+    {
+      "country": "US",
+      "name": "Maysville",
+      "lat": "38.64119",
+      "lng": "-83.74437"
+    },
+    {
+      "country": "US",
+      "name": "McKee",
+      "lat": "37.43036",
+      "lng": "-83.99798"
+    },
+    {
+      "country": "US",
+      "name": "Meads",
+      "lat": "38.41258",
+      "lng": "-82.70905"
+    },
+    {
+      "country": "US",
+      "name": "Middlesboro",
+      "lat": "36.60842",
+      "lng": "-83.71658"
+    },
+    {
+      "country": "US",
+      "name": "Middletown",
+      "lat": "38.24535",
+      "lng": "-85.53885"
+    },
+    {
+      "country": "US",
+      "name": "Midway",
+      "lat": "38.15091",
+      "lng": "-84.68383"
+    },
+    {
+      "country": "US",
+      "name": "Heritage Creek",
+      "lat": "38.12368",
+      "lng": "-85.71968"
+    },
+    {
+      "country": "US",
+      "name": "Monticello",
+      "lat": "36.82979",
+      "lng": "-84.84911"
+    },
+    {
+      "country": "US",
+      "name": "Monticello",
+      "lat": "37.9923",
+      "lng": "-84.55022"
+    },
+    {
+      "country": "US",
+      "name": "Morehead",
+      "lat": "38.18397",
+      "lng": "-83.43268"
+    },
+    {
+      "country": "US",
+      "name": "Morehead",
+      "lat": "37.27115",
+      "lng": "-87.17638"
+    },
+    {
+      "country": "US",
+      "name": "Morganfield",
+      "lat": "37.68338",
+      "lng": "-87.91669"
+    },
+    {
+      "country": "US",
+      "name": "Morgantown",
+      "lat": "37.2256",
+      "lng": "-86.6836"
+    },
+    {
+      "country": "US",
+      "name": "Mount Olivet",
+      "lat": "38.53146",
+      "lng": "-84.03687"
+    },
+    {
+      "country": "US",
+      "name": "Mount Sterling",
+      "lat": "38.05647",
+      "lng": "-83.94326"
+    },
+    {
+      "country": "US",
+      "name": "Mount Vernon",
+      "lat": "38.02563",
+      "lng": "-84.49522"
+    },
+    {
+      "country": "US",
+      "name": "Mount Vernon",
+      "lat": "37.35286",
+      "lng": "-84.34049"
+    },
+    {
+      "country": "US",
+      "name": "Mount Washington",
+      "lat": "38.05006",
+      "lng": "-85.54579"
+    },
+    {
+      "country": "US",
+      "name": "Munfordville",
+      "lat": "37.27228",
+      "lng": "-85.89108"
+    },
+    {
+      "country": "US",
+      "name": "Murray",
+      "lat": "36.61033",
+      "lng": "-88.31476"
+    },
+    {
+      "country": "US",
+      "name": "New Castle",
+      "lat": "38.4334",
+      "lng": "-85.16968"
+    },
+    {
+      "country": "US",
+      "name": "Newburg",
+      "lat": "38.16007",
+      "lng": "-85.65968"
+    },
+    {
+      "country": "US",
+      "name": "Newport",
+      "lat": "39.09145",
+      "lng": "-84.49578"
+    },
+    {
+      "country": "US",
+      "name": "Nicholasville",
+      "lat": "37.88063",
+      "lng": "-84.573"
+    },
+    {
+      "country": "US",
+      "name": "North Corbin",
+      "lat": "36.96064",
+      "lng": "-84.09326"
+    },
+    {
+      "country": "US",
+      "name": "Northfield",
+      "lat": "38.28701",
+      "lng": "-85.64107"
+    },
+    {
+      "country": "US",
+      "name": "Nortonville",
+      "lat": "37.19088",
+      "lng": "-87.45278"
+    },
+    {
+      "country": "US",
+      "name": "Oak Grove",
+      "lat": "36.66505",
+      "lng": "-87.44279"
+    },
+    {
+      "country": "RU",
+      "name": "Novopokrovskaya",
+      "lat": "45.95139",
+      "lng": "40.70056"
+    },
+    {
+      "country": "RU",
+      "name": "Novopokrovka",
+      "lat": "52.1331",
+      "lng": "40.8783"
+    },
+    {
+      "country": "RU",
+      "name": "Novopodrezkovo",
+      "lat": "55.93972",
+      "lng": "37.34417"
+    },
+    {
+      "country": "RU",
+      "name": "Novoplatnirovskaya",
+      "lat": "46.1065",
+      "lng": "39.4191"
+    },
+    {
+      "country": "RU",
+      "name": "Novopistsovo",
+      "lat": "57.32177",
+      "lng": "41.8531"
+    },
+    {
+      "country": "RU",
+      "name": "Novopetrovskoye",
+      "lat": "55.99278",
+      "lng": "36.47194"
+    },
+    {
+      "country": "RU",
+      "name": "Novopavlovsk",
+      "lat": "43.96222",
+      "lng": "43.63417"
+    },
+    {
+      "country": "RU",
+      "name": "Novoorsk",
+      "lat": "51.381",
+      "lng": "58.9813"
+    },
+    {
+      "country": "RU",
+      "name": "Novo-Nikol’skoye",
+      "lat": "56.56667",
+      "lng": "37.53333"
+    },
+    {
+      "country": "RU",
+      "name": "Novonikolayevskiy",
+      "lat": "50.9738",
+      "lng": "42.3649"
+    },
+    {
+      "country": "RU",
+      "name": "Novomyshastovskaya",
+      "lat": "45.19909",
+      "lng": "38.58272"
+    },
+    {
+      "country": "RU",
+      "name": "Novomoskovsk",
+      "lat": "54.0105",
+      "lng": "38.2846"
+    },
+    {
+      "country": "RU",
+      "name": "Novominskaya",
+      "lat": "46.3163",
+      "lng": "38.9586"
+    },
+    {
+      "country": "RU",
+      "name": "Novomikhaylovskiy",
+      "lat": "44.2626",
+      "lng": "38.8585"
+    },
+    {
+      "country": "RU",
+      "name": "Novomichurinsk",
+      "lat": "54.0384",
+      "lng": "39.7479"
+    },
+    {
+      "country": "RU",
+      "name": "Novaya Malykla",
+      "lat": "54.2",
+      "lng": "49.95"
+    },
+    {
+      "country": "RU",
+      "name": "Novomalorossiyskaya",
+      "lat": "45.63483",
+      "lng": "39.89481"
+    },
+    {
+      "country": "RU",
+      "name": "Novoleushkovskaya",
+      "lat": "45.9956",
+      "lng": "39.9921"
+    },
+    {
+      "country": "RU",
+      "name": "Novolakskoye",
+      "lat": "43.11952",
+      "lng": "46.48281"
+    },
+    {
+      "country": "RU",
+      "name": "Novolabinskaya",
+      "lat": "45.10956",
+      "lng": "39.89399"
+    },
+    {
+      "country": "RU",
+      "name": "Novokuz’minki",
+      "lat": "55.71667",
+      "lng": "37.78333"
+    },
+    {
+      "country": "RU",
+      "name": "Novokuybyshevsk",
+      "lat": "53.0959",
+      "lng": "49.9462"
+    },
+    {
+      "country": "RU",
+      "name": "Novokubansk",
+      "lat": "45.117",
+      "lng": "41.0267"
+    },
+    {
+      "country": "RU",
+      "name": "Novokorsunskaya",
+      "lat": "45.6408",
+      "lng": "39.14641"
+    },
+    {
+      "country": "RU",
+      "name": "Novokhovrino",
+      "lat": "55.86667",
+      "lng": "37.5"
+    },
+    {
+      "country": "RU",
+      "name": "Novokhopërsk",
+      "lat": "51.0969",
+      "lng": "41.6252"
+    },
+    {
+      "country": "RU",
+      "name": "Novokayakent",
+      "lat": "42.39368",
+      "lng": "47.98608"
+    },
+    {
+      "country": "RU",
+      "name": "Novyy Izborsk",
+      "lat": "57.77079",
+      "lng": "27.97306"
+    },
+    {
+      "country": "RU",
+      "name": "Novoivanovskoye",
+      "lat": "55.70381",
+      "lng": "37.3651"
+    },
+    {
+      "country": "RU",
+      "name": "Novogurovskiy",
+      "lat": "54.46782",
+      "lng": "37.33709"
+    },
+    {
+      "country": "RU",
+      "name": "Oyskhara",
+      "lat": "43.26402",
+      "lng": "46.24803"
+    },
+    {
+      "country": "RU",
+      "name": "Grebnevo",
+      "lat": "55.95074",
+      "lng": "38.07973"
+    },
+    {
+      "country": "RU",
+      "name": "Novogireyevo",
+      "lat": "55.75378",
+      "lng": "37.81885"
+    },
+    {
+      "country": "RU",
+      "name": "Novogagatli",
+      "lat": "43.45677",
+      "lng": "46.48175"
+    },
+    {
+      "country": "RU",
+      "name": "Novodzhereliyevskaya",
+      "lat": "45.77373",
+      "lng": "38.67227"
+    },
+    {
+      "country": "RU",
+      "name": "Novodvinsk",
+      "lat": "64.4165",
+      "lng": "40.8122"
+    },
+    {
+      "country": "RU",
+      "name": "Novodugino",
+      "lat": "55.63052",
+      "lng": "34.28423"
+    },
+    {
+      "country": "RU",
+      "name": "Novodmitriyevskaya",
+      "lat": "44.83276",
+      "lng": "38.87847"
+    },
+    {
+      "country": "RU",
+      "name": "Novoderevyankovskaya",
+      "lat": "46.32312",
+      "lng": "38.74724"
+    },
+    {
+      "country": "RU",
+      "name": "Novocherkassk",
+      "lat": "47.42096",
+      "lng": "40.09185"
+    },
+    {
+      "country": "RU",
+      "name": "Novocheremshansk",
+      "lat": "54.35714",
+      "lng": "50.16662"
+    },
+    {
+      "country": "RU",
+      "name": "Novocheboksarsk",
+      "lat": "56.11095",
+      "lng": "47.47755"
+    },
+    {
+      "country": "RU",
+      "name": "Novoblagodarnoye",
+      "lat": "44.14333",
+      "lng": "42.875"
+    },
+    {
+      "country": "RU",
+      "name": "Novobeysugskaya",
+      "lat": "45.47195",
+      "lng": "39.88614"
+    },
+    {
+      "country": "RU",
+      "name": "Novobessergenovka",
+      "lat": "47.18465",
+      "lng": "38.84625"
+    },
+    {
+      "country": "RU",
+      "name": "Novobelokatay",
+      "lat": "55.7062",
+      "lng": "58.9549"
+    },
+    {
+      "country": "RU",
+      "name": "Novobataysk",
+      "lat": "46.89806",
+      "lng": "39.78194"
+    },
+    {
+      "country": "RU",
+      "name": "Novoanninskiy",
+      "lat": "50.5287",
+      "lng": "42.6747"
+    },
+    {
+      "country": "RU",
+      "name": "Novoalekseyevskaya",
+      "lat": "44.81889",
+      "lng": "40.93389"
+    },
+    {
+      "country": "RU",
+      "name": "Novoaleksandrovsk",
+      "lat": "45.4948",
+      "lng": "41.22075"
+    },
+    {
+      "country": "RU",
+      "name": "Novki",
+      "lat": "56.36386",
+      "lng": "41.08655"
+    },
+    {
+      "country": "RU",
+      "name": "Velikiy Novgorod",
+      "lat": "58.52131",
+      "lng": "31.27104"
+    },
+    {
+      "country": "RU",
+      "name": "Novaya Usman’",
+      "lat": "51.64177",
+      "lng": "39.40863"
+    },
+    {
+      "country": "RU",
+      "name": "Novaya Tavolzhanka",
+      "lat": "50.35123",
+      "lng": "36.8298"
+    },
+    {
+      "country": "RU",
+      "name": "Novaya Mayna",
+      "lat": "54.15",
+      "lng": "49.75"
+    },
+    {
+      "country": "RU",
+      "name": "Novaya Lyada",
+      "lat": "52.71309",
+      "lng": "41.63872"
+    },
+    {
+      "country": "RU",
+      "name": "Novaya Ladoga",
+      "lat": "60.10246",
+      "lng": "32.30191"
+    },
+    {
+      "country": "RU",
+      "name": "Novaya Derevnya",
+      "lat": "59.98748",
+      "lng": "30.28682"
+    },
+    {
+      "country": "US",
+      "name": "Paragould",
+      "lat": "36.0584",
+      "lng": "-90.49733"
+    },
+    {
+      "country": "US",
+      "name": "Paris",
+      "lat": "35.29203",
+      "lng": "-93.72992"
+    },
+    {
+      "country": "US",
+      "name": "Parkin",
+      "lat": "35.26342",
+      "lng": "-90.57122"
+    },
+    {
+      "country": "US",
+      "name": "Pea Ridge",
+      "lat": "33.92066",
+      "lng": "-91.33679"
+    },
+    {
+      "country": "US",
+      "name": "Pea Ridge",
+      "lat": "36.45396",
+      "lng": "-94.1152"
+    },
+    {
+      "country": "US",
+      "name": "Perryville",
+      "lat": "35.00481",
+      "lng": "-92.80267"
+    },
+    {
+      "country": "US",
+      "name": "Piggott",
+      "lat": "36.38284",
+      "lng": "-90.19065"
+    },
+    {
+      "country": "US",
+      "name": "Pine Bluff",
+      "lat": "34.22843",
+      "lng": "-92.0032"
+    },
+    {
+      "country": "US",
+      "name": "Piney",
+      "lat": "34.50314",
+      "lng": "-93.12602"
+    },
+    {
+      "country": "US",
+      "name": "Pocahontas",
+      "lat": "36.26146",
+      "lng": "-90.97123"
+    },
+    {
+      "country": "US",
+      "name": "Pottsville",
+      "lat": "35.24814",
+      "lng": "-93.04906"
+    },
+    {
+      "country": "US",
+      "name": "Prairie Creek",
+      "lat": "36.34202",
+      "lng": "-94.06187"
+    },
+    {
+      "country": "US",
+      "name": "Prairie Grove",
+      "lat": "35.97591",
+      "lng": "-94.31771"
+    },
+    {
+      "country": "US",
+      "name": "Prescott",
+      "lat": "33.80261",
+      "lng": "-93.38101"
+    },
+    {
+      "country": "US",
+      "name": "Rector",
+      "lat": "36.26312",
+      "lng": "-90.2926"
+    },
+    {
+      "country": "US",
+      "name": "Redfield",
+      "lat": "34.4451",
+      "lng": "-92.1832"
+    },
+    {
+      "country": "US",
+      "name": "Rison",
+      "lat": "33.95843",
+      "lng": "-92.19015"
+    },
+    {
+      "country": "US",
+      "name": "Rockwell",
+      "lat": "34.46426",
+      "lng": "-93.13379"
+    },
+    {
+      "country": "US",
+      "name": "Rogers",
+      "lat": "36.33202",
+      "lng": "-94.11854"
+    },
+    {
+      "country": "US",
+      "name": "Russellville",
+      "lat": "35.27842",
+      "lng": "-93.13379"
+    },
+    {
+      "country": "US",
+      "name": "Salem",
+      "lat": "36.37118",
+      "lng": "-91.82265"
+    },
+    {
+      "country": "US",
+      "name": "Salem",
+      "lat": "34.62898",
+      "lng": "-92.55822"
+    },
+    {
+      "country": "US",
+      "name": "Searcy",
+      "lat": "35.25064",
+      "lng": "-91.73625"
+    },
+    {
+      "country": "US",
+      "name": "Shannon Hills",
+      "lat": "34.62009",
+      "lng": "-92.39543"
+    },
+    {
+      "country": "US",
+      "name": "Sheridan",
+      "lat": "34.30704",
+      "lng": "-92.40127"
+    },
+    {
+      "country": "US",
+      "name": "Siloam Springs",
+      "lat": "36.18814",
+      "lng": "-94.5405"
+    },
+    {
+      "country": "US",
+      "name": "Smackover",
+      "lat": "33.36485",
+      "lng": "-92.72488"
+    },
+    {
+      "country": "US",
+      "name": "Southside",
+      "lat": "35.69841",
+      "lng": "-91.62347"
+    },
+    {
+      "country": "US",
+      "name": "Springdale",
+      "lat": "36.18674",
+      "lng": "-94.12881"
+    },
+    {
+      "country": "US",
+      "name": "Stamps",
+      "lat": "33.3654",
+      "lng": "-93.49518"
+    },
+    {
+      "country": "US",
+      "name": "Star City",
+      "lat": "33.94288",
+      "lng": "-91.84347"
+    },
+    {
+      "country": "US",
+      "name": "Stuttgart",
+      "lat": "34.50037",
+      "lng": "-91.55263"
+    },
+    {
+      "country": "US",
+      "name": "Sulphur Springs",
+      "lat": "34.18065",
+      "lng": "-92.12348"
+    },
+    {
+      "country": "US",
+      "name": "Texarkana",
+      "lat": "33.44179",
+      "lng": "-94.03769"
+    },
+    {
+      "country": "US",
+      "name": "Tontitown",
+      "lat": "36.17786",
+      "lng": "-94.23354"
+    },
+    {
+      "country": "US",
+      "name": "Trumann",
+      "lat": "35.67369",
+      "lng": "-90.50733"
+    },
+    {
+      "country": "US",
+      "name": "Tuckerman",
+      "lat": "35.73063",
+      "lng": "-91.19846"
+    },
+    {
+      "country": "US",
+      "name": "Van Buren",
+      "lat": "35.43676",
+      "lng": "-94.34827"
+    },
+    {
+      "country": "US",
+      "name": "Vilonia",
+      "lat": "35.08398",
+      "lng": "-92.20793"
+    },
+    {
+      "country": "US",
+      "name": "Waldo",
+      "lat": "33.35151",
+      "lng": "-93.29573"
+    },
+    {
+      "country": "US",
+      "name": "Waldron",
+      "lat": "34.89843",
+      "lng": "-94.09076"
+    },
+    {
+      "country": "US",
+      "name": "Walnut Ridge",
+      "lat": "36.0684",
+      "lng": "-90.95595"
+    },
+    {
+      "country": "US",
+      "name": "Ward",
+      "lat": "35.03036",
+      "lng": "-91.95042"
+    },
+    {
+      "country": "US",
+      "name": "Warren",
+      "lat": "33.61261",
+      "lng": "-92.06458"
+    },
+    {
+      "country": "US",
+      "name": "West Crossett",
+      "lat": "33.14096",
+      "lng": "-91.99402"
+    },
+    {
+      "country": "US",
+      "name": "West Fork",
+      "lat": "35.92425",
+      "lng": "-94.18854"
+    },
+    {
+      "country": "US",
+      "name": "West Helena",
+      "lat": "34.55066",
+      "lng": "-90.64177"
+    },
+    {
+      "country": "US",
+      "name": "North Chicago",
+      "lat": "42.32558",
+      "lng": "-87.84118"
+    },
+    {
+      "country": "US",
+      "name": "North Lawndale",
+      "lat": "41.86003",
+      "lng": "-87.71839"
+    },
+    {
+      "country": "US",
+      "name": "North Pekin",
+      "lat": "40.61504",
+      "lng": "-89.62232"
+    },
+    {
+      "country": "US",
+      "name": "North Peoria",
+      "lat": "40.71754",
+      "lng": "-89.58426"
+    },
+    {
+      "country": "US",
+      "name": "New Bremen",
+      "lat": "40.43699",
+      "lng": "-84.37967"
+    },
+    {
+      "country": "US",
+      "name": "New California",
+      "lat": "40.15617",
+      "lng": "-83.23658"
+    },
+    {
+      "country": "US",
+      "name": "New Franklin",
+      "lat": "40.94172",
+      "lng": "-81.54151"
+    },
+    {
+      "country": "US",
+      "name": "New London",
+      "lat": "41.08505",
+      "lng": "-82.39989"
+    },
+    {
+      "country": "US",
+      "name": "New Middletown",
+      "lat": "40.96117",
+      "lng": "-80.55757"
+    },
+    {
+      "country": "US",
+      "name": "New Philadelphia",
+      "lat": "40.48979",
+      "lng": "-81.44567"
+    },
+    {
+      "country": "US",
+      "name": "New Waterford",
+      "lat": "40.84506",
+      "lng": "-80.61452"
+    },
+    {
+      "country": "US",
+      "name": "Newark",
+      "lat": "40.05812",
+      "lng": "-82.40126"
+    },
+    {
+      "country": "US",
+      "name": "Newburgh Heights",
+      "lat": "41.45005",
+      "lng": "-81.66346"
+    },
+    {
+      "country": "US",
+      "name": "Newcomerstown",
+      "lat": "40.27229",
+      "lng": "-81.60595"
+    },
+    {
+      "country": "US",
+      "name": "Newton Falls",
+      "lat": "41.18839",
+      "lng": "-80.97815"
+    },
+    {
+      "country": "US",
+      "name": "Niles",
+      "lat": "41.18284",
+      "lng": "-80.76536"
+    },
+    {
+      "country": "US",
+      "name": "North Baltimore",
+      "lat": "41.18283",
+      "lng": "-83.67827"
+    },
+    {
+      "country": "US",
+      "name": "North Canton",
+      "lat": "40.87589",
+      "lng": "-81.40234"
+    },
+    {
+      "country": "US",
+      "name": "North Kingsville",
+      "lat": "41.90589",
+      "lng": "-80.69036"
+    },
+    {
+      "country": "US",
+      "name": "North Lewisburg",
+      "lat": "40.22311",
+      "lng": "-83.55743"
+    },
+    {
+      "country": "US",
+      "name": "North Madison",
+      "lat": "41.802",
+      "lng": "-81.04899"
+    },
+    {
+      "country": "US",
+      "name": "North Olmsted",
+      "lat": "41.4156",
+      "lng": "-81.92347"
+    },
+    {
+      "country": "US",
+      "name": "North Randall",
+      "lat": "41.43478",
+      "lng": "-81.52568"
+    },
+    {
+      "country": "US",
+      "name": "North Ridgeville",
+      "lat": "41.38949",
+      "lng": "-82.01903"
+    },
+    {
+      "country": "US",
+      "name": "North Royalton",
+      "lat": "41.31366",
+      "lng": "-81.72457"
+    },
+    {
+      "country": "US",
+      "name": "Northfield",
+      "lat": "41.34505",
+      "lng": "-81.52845"
+    },
+    {
+      "country": "US",
+      "name": "Northwood",
+      "lat": "40.47283",
+      "lng": "-83.73243"
+    },
+    {
+      "country": "US",
+      "name": "Northwood",
+      "lat": "41.60727",
+      "lng": "-83.46882"
+    },
+    {
+      "country": "US",
+      "name": "Norton",
+      "lat": "41.02922",
+      "lng": "-81.63818"
+    },
+    {
+      "country": "US",
+      "name": "Norwalk",
+      "lat": "41.24255",
+      "lng": "-82.61573"
+    },
+    {
+      "country": "US",
+      "name": "Oak Harbor",
+      "lat": "41.50672",
+      "lng": "-83.14659"
+    },
+    {
+      "country": "US",
+      "name": "Oak Hill",
+      "lat": "40.41423",
+      "lng": "-82.24099"
+    },
+    {
+      "country": "US",
+      "name": "Oakwood",
+      "lat": "41.36533",
+      "lng": "-81.5079"
+    },
+    {
+      "country": "US",
+      "name": "Oberlin",
+      "lat": "41.29394",
+      "lng": "-82.21738"
+    },
+    {
+      "country": "US",
+      "name": "Olmsted Falls",
+      "lat": "41.37505",
+      "lng": "-81.90819"
+    },
+    {
+      "country": "US",
+      "name": "Ontario",
+      "lat": "40.7595",
+      "lng": "-82.59017"
+    },
+    {
+      "country": "US",
+      "name": "Orange",
+      "lat": "41.44978",
+      "lng": "-81.48067"
+    },
+    {
+      "country": "US",
+      "name": "Oregon",
+      "lat": "41.64366",
+      "lng": "-83.48688"
+    },
+    {
+      "country": "US",
+      "name": "Orrville",
+      "lat": "40.84367",
+      "lng": "-81.76402"
+    },
+    {
+      "country": "US",
+      "name": "Orwell",
+      "lat": "41.53506",
+      "lng": "-80.86814"
+    },
+    {
+      "country": "US",
+      "name": "Ottawa",
+      "lat": "41.01922",
+      "lng": "-84.04717"
+    },
+    {
+      "country": "US",
+      "name": "Ottawa Hills",
+      "lat": "41.66422",
+      "lng": "-83.64327"
+    },
+    {
+      "country": "US",
+      "name": "Painesville",
+      "lat": "41.72449",
+      "lng": "-81.24566"
+    },
+    {
+      "country": "US",
+      "name": "Pandora",
+      "lat": "40.94811",
+      "lng": "-83.96105"
+    },
+    {
+      "country": "US",
+      "name": "Parma",
+      "lat": "41.40477",
+      "lng": "-81.72291"
+    },
+    {
+      "country": "US",
+      "name": "Parma Heights",
+      "lat": "41.39005",
+      "lng": "-81.75958"
+    },
+    {
+      "country": "US",
+      "name": "Paulding",
+      "lat": "41.13811",
+      "lng": "-84.58051"
+    },
+    {
+      "country": "US",
+      "name": "Payne",
+      "lat": "41.07755",
+      "lng": "-84.72718"
+    },
+    {
+      "country": "US",
+      "name": "Pemberville",
+      "lat": "41.41089",
+      "lng": "-83.46104"
+    },
+    {
+      "country": "US",
+      "name": "Pepper Pike",
+      "lat": "41.47839",
+      "lng": "-81.46373"
+    },
+    {
+      "country": "US",
+      "name": "Perry",
+      "lat": "41.76033",
+      "lng": "-81.14093"
+    },
+    {
+      "country": "US",
+      "name": "Perry Heights",
+      "lat": "40.79534",
+      "lng": "-81.47345"
+    },
+    {
+      "country": "US",
+      "name": "Perrysburg",
+      "lat": "41.557",
+      "lng": "-83.62716"
+    },
+    {
+      "country": "US",
+      "name": "Pioneer",
+      "lat": "41.68005",
+      "lng": "-84.55301"
+    },
+    {
+      "country": "US",
+      "name": "Piqua",
+      "lat": "40.14477",
+      "lng": "-84.24244"
+    },
+    {
+      "country": "US",
+      "name": "Plain City",
+      "lat": "40.10756",
+      "lng": "-83.26742"
+    },
+    {
+      "country": "US",
+      "name": "Pleasant Hill",
+      "lat": "40.05172",
+      "lng": "-84.34439"
+    },
+    {
+      "country": "US",
+      "name": "Plymouth",
+      "lat": "40.99561",
+      "lng": "-82.66712"
+    },
+    {
+      "country": "US",
+      "name": "Poland",
+      "lat": "41.02423",
+      "lng": "-80.6148"
+    },
+    {
+      "country": "US",
+      "name": "Port Clinton",
+      "lat": "41.512",
+      "lng": "-82.93769"
+    },
+    {
+      "country": "US",
+      "name": "Portage Lakes",
+      "lat": "41.00728",
+      "lng": "-81.52706"
+    },
+    {
+      "country": "US",
+      "name": "Powell",
+      "lat": "40.15784",
+      "lng": "-83.07519"
+    },
+    {
+      "country": "US",
+      "name": "Prospect",
+      "lat": "40.45034",
+      "lng": "-83.18853"
+    },
+    {
+      "country": "US",
+      "name": "Ravenna",
+      "lat": "41.15756",
+      "lng": "-81.24205"
+    },
+    {
+      "country": "US",
+      "name": "Reminderville",
+      "lat": "41.34589",
+      "lng": "-81.39511"
+    },
+    {
+      "country": "US",
+      "name": "Richfield",
+      "lat": "41.23978",
+      "lng": "-81.63818"
+    },
+    {
+      "country": "US",
+      "name": "Richmond Heights",
+      "lat": "41.55283",
+      "lng": "-81.51012"
+    },
+    {
+      "country": "US",
+      "name": "Richville",
+      "lat": "40.75117",
+      "lng": "-81.4779"
+    },
+    {
+      "country": "US",
+      "name": "Richwood",
+      "lat": "40.42645",
+      "lng": "-83.29686"
+    },
+    {
+      "country": "US",
+      "name": "Rittman",
+      "lat": "40.97811",
+      "lng": "-81.78208"
+    },
+    {
+      "country": "US",
+      "name": "Roaming Shores",
+      "lat": "41.64311",
+      "lng": "-80.82342"
+    },
+    {
+      "country": "US",
+      "name": "Rockford",
+      "lat": "40.68783",
+      "lng": "-84.64663"
+    },
+    {
+      "country": "US",
+      "name": "Rockford",
+      "lat": "40.47701",
+      "lng": "-81.30844"
+    },
+    {
+      "country": "US",
+      "name": "Rocky River",
+      "lat": "41.4756",
+      "lng": "-81.8393"
+    },
+    {
+      "country": "US",
+      "name": "Rossford",
+      "lat": "41.60977",
+      "lng": "-83.56438"
+    },
+    {
+      "country": "US",
+      "name": "Russells Point",
+      "lat": "40.47116",
+      "lng": "-83.89272"
+    },
+    {
+      "country": "US",
+      "name": "Saint Clairsville",
+      "lat": "40.08063",
+      "lng": "-80.90009"
+    },
+    {
+      "country": "UZ",
+      "name": "Tashkent",
+      "lat": "41.26465",
+      "lng": "69.21627"
+    },
+]
